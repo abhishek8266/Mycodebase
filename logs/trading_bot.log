@@ -1,0 +1,32 @@
+2026-05-20 20:37:22,297 - INFO - Sending Order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-05-20 20:37:22,298 - ERROR - API Secret required for private endpoints
+2026-05-20 20:37:34,585 - INFO - Sending Order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-05-20 20:37:34,589 - ERROR - API Secret required for private endpoints
+2026-05-20 20:42:27,138 - INFO - Sending Order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-05-20 20:42:27,139 - ERROR - API Secret required for private endpoints
+2026-05-20 20:42:46,594 - INFO - Sending Order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-05-20 20:42:46,595 - ERROR - API Secret required for private endpoints
+2026-05-20 20:44:20,083 - INFO - Sending Order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-05-20 20:44:21,268 - INFO - Response: {}
+2026-05-20 20:47:28,431 - INFO - Sending Order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-05-20 20:47:29,328 - INFO - Response: {}
+2026-05-20 20:50:26,170 - INFO - Sending Order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-05-20 20:50:27,468 - INFO - Response: {}
+2026-05-20 20:50:48,787 - INFO - Sending Order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-05-20 20:50:49,746 - INFO - Response: {}
+2026-05-20 20:57:20,974 - INFO - Sending order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001, 'positionSide': 'BOTH'}
+2026-05-20 20:57:21,803 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-05-20 20:57:38,282 - INFO - Sending order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001, 'positionSide': 'BOTH'}
+2026-05-20 20:57:38,790 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-05-20 20:58:10,227 - INFO - Sending order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001, 'positionSide': 'BOTH'}
+2026-05-20 20:58:11,046 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-05-20 20:58:28,252 - INFO - Sending order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001, 'positionSide': 'BOTH'}
+2026-05-20 20:58:28,862 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-05-20 21:00:41,571 - INFO - Sending order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001, 'positionSide': 'BOTH'}
+2026-05-20 21:00:42,084 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-05-20 21:04:48,251 - INFO - Sending order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001, 'positionSide': 'BOTH'}
+2026-05-20 21:04:48,761 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-05-20 21:08:30,877 - INFO - Sending order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001, 'positionSide': 'BOTH'}
+2026-05-20 21:08:31,378 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-05-20 21:14:40,010 - INFO - Sending order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001, 'positionSide': 'BOTH'}
+2026-05-20 21:14:40,643 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
